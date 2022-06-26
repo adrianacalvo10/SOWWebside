@@ -1,0 +1,13 @@
+html, body {
+background-color: beige; 
+  
+border: solid 20px;
+encabezado{
+  font-size: 100px;
+  padding: 50px;
+  
+  img{
+  height: 400px;
+  width: 400px;
+  
+  }
